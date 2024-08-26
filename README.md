@@ -1,2 +1,2 @@
 # GRIP
-Voice deidentification with cognitive utility preservation
+Speech anonymization with cognitive utility preservation

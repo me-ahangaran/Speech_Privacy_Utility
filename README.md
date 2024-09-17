@@ -29,4 +29,3 @@ The following packages and versions are required for running the toolboxes:
   - soundfile 0.12.1
   - os
   - pyworld 0.3.4
-```

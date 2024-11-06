@@ -1,7 +1,7 @@
 # Speech Deidentification with Preservation of Cognitive Acoustic Feature Utility
 
 This repository contains the implementation of a speech deidentification approach that balances privacy and utility. It includes various packages for feature engineering, speaker deidentification, privacy metrics, and classification tasks for dementia diagnosis.
-
+<image src = "https://github.com/me-ahangaran/Speech_Privacy_Utility/blob/main/Flowchart.svg">
 ## Feature Engineering
 
 This package provides tools for extracting acoustic features and calculating the importance of cognitive features. Specifically:

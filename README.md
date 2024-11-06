@@ -35,6 +35,8 @@ This section describes our evaluation of the framework's performance in **de-ide
 
 The table below shows the results of applying the framework to these datasets, before and after de-identification, using **six classification algorithms** to assess accuracy.
 
+<image src = "https://github.com/me-ahangaran/Speech_Privacy_Utility/blob/main/Orig_Altered_Results_Table.jpg" >
+
 ### Processing Steps
 
 Each speech file includes transcriptions with the exact timing and duration of clinician-participant interactions. Using these transcriptions, we applied **speech diarization** to isolate the participant's speech segments, then merged these segments into a single file containing only the participant's voice. This diarized version (excluding the clinician’s voice) was used for all further processing, ensuring that analysis for cognitive impairment differentiation and speech de-identification focuses solely on participants' vocal features.
@@ -47,6 +49,8 @@ We evaluated the model performance with increasing **pitch-shifting** levels, as
 - **AUC** of the speaker recognition system
 
 These results are provided for both datasets.
+
+<image src = "https://github.com/me-ahangaran/Speech_Privacy_Utility/blob/main/FHS_DementiaBank_Results.jpg" >
 
 
 ## Package Requirements

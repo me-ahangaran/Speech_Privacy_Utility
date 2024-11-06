@@ -48,7 +48,7 @@ We evaluated the model performance with increasing **pitch-shifting** levels, as
 - **Average Classification Accuracy**
 - **AUC** of the speaker recognition system
 
-These results are provided for both datasets.
+These results are provided for both datasets. The optimal balancing points for both datasets are marked by vertical orange dashed lines.‎
 
 <image src = "https://github.com/me-ahangaran/Speech_Privacy_Utility/blob/main/FHS_DementiaBank_Results.jpg" >
 
